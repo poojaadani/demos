@@ -14,7 +14,7 @@ Clone the repository and manually invoke `composer` using the shipped
 `composer.phar`:
 
     cd my/project/dir
-    git://github.com/bigemployee/Big-Sticky-Notes.git
+    git://github.com/poojaadani/demos/Zend-Sample
     cd Big-Sticky-Notes
     php composer.phar self-update
     php composer.phar install

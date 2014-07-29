@@ -3,7 +3,7 @@
 /**
  * Description of Module
  *
- * @author Arian Khosravi <arian@bigemployee.com>, <@ArianKhosravi>
+ * @author Pooja Adani <info@kamaldhari.com>
  */
 //  module/StickyNotes/Module.php
 

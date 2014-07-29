@@ -3,7 +3,7 @@
 /**
  * Description of StickyNotesTable
  *
- * @author Arian Khosravi <arian@bigemployee.com>, <@ArianKhosravi>
+ * @author Pooja Adani <info@kamaldhari.com>
  */
 // module/StickyNotes/src/StickyNotes/Model/StickyNotesTable.php
 

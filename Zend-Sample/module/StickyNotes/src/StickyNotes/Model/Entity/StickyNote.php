@@ -8,7 +8,7 @@
 /**
  * Description of StickyNote
  *
- * @author Arian Khosravi <arian@bigemployee.com>, <@ArianKhosravi>
+ * @author Pooja Adani <info@kamaldhari.com>
  */
 // module/StickyNotes/src/StickyNotes/Model/Entity/StickyNotes.php
 
