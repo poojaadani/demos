@@ -1,0 +1,12 @@
+[22-Jun-2014 13:14:36 Etc/GMT] PHP Fatal error:  Call to undefined function get_option() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/logs.php on line 26
+[22-Jun-2014 13:35:26 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/menu.php on line 3
+[22-Jun-2014 13:38:55 Etc/GMT] PHP Fatal error:  Call to undefined function xyz_smap_plugin_get_version() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/about.php on line 6
+[22-Jun-2014 22:30:42 Etc/GMT] PHP Fatal error:  Call to undefined function get_option() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/footer.php on line 1
+[22-Jun-2014 22:40:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_option() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/header.php on line 1
+[22-Jun-2014 22:47:15 Etc/GMT] PHP Fatal error:  Call to undefined function register_activation_hook() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/install.php on line 87
+[23-Jun-2014 06:11:01 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/metabox.php on line 2
+[23-Jun-2014 06:19:02 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/publish.php on line 3
+[23-Jun-2014 06:28:18 Etc/GMT] PHP Fatal error:  Call to undefined function get_currentuserinfo() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/settings.php on line 4
+[23-Jun-2014 19:20:27 Etc/GMT] PHP Fatal error:  Call to undefined function register_uninstall_hook() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/destruction.php on line 77
+[23-Jun-2014 19:35:46 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/ajax-backlink.php on line 3
+[24-Jun-2014 02:04:35 Etc/GMT] PHP Fatal error:  Call to undefined function get_option() in /home/kamalqfo/public_html/rujal/social-media-auto-publish/admin/authorization.php on line 2

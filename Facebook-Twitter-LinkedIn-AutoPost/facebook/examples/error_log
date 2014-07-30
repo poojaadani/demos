@@ -1,0 +1,15 @@
+[25-Jun-2014 07:43:45 Etc/GMT] CSRF state token does not match one provided.
+[01-Jul-2014 06:40:43 Etc/GMT] PHP Warning:  require_once(path/to/facebooksdk/src/facebook.php): failed to open stream: No such file or directory in /home/kamalqfo/public_html/shenky/facebook/examples/autopost.php on line 4
+[01-Jul-2014 06:40:43 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'path/to/facebooksdk/src/facebook.php' (include_path='.:/usr/local/altphp54/lib/php') in /home/kamalqfo/public_html/shenky/facebook/examples/autopost.php on line 4
+[01-Jul-2014 06:41:30 Etc/GMT] PHP Warning:  require_once(path/to/facebooksdk/src/facebook.php): failed to open stream: No such file or directory in /home/kamalqfo/public_html/shenky/facebook/examples/autopost.php on line 4
+[01-Jul-2014 06:41:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'path/to/facebooksdk/src/facebook.php' (include_path='.:/usr/local/altphp54/lib/php') in /home/kamalqfo/public_html/shenky/facebook/examples/autopost.php on line 4
+[01-Jul-2014 06:41:32 Etc/GMT] PHP Warning:  require_once(path/to/facebooksdk/src/facebook.php): failed to open stream: No such file or directory in /home/kamalqfo/public_html/shenky/facebook/examples/autopost.php on line 4
+[01-Jul-2014 06:41:32 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'path/to/facebooksdk/src/facebook.php' (include_path='.:/usr/local/altphp54/lib/php') in /home/kamalqfo/public_html/shenky/facebook/examples/autopost.php on line 4
+[01-Jul-2014 07:35:19 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/kamalqfo/public_html/shenky/facebook/examples/example.php on line 46
+[01-Jul-2014 07:54:56 Etc/GMT] CSRF state token does not match one provided.
+[01-Jul-2014 08:03:17 Etc/GMT] CSRF state token does not match one provided.
+[01-Jul-2014 08:25:34 Etc/GMT] PHP Warning:  array_merge(): Argument #2 is not an array in /home/kamalqfo/public_html/shenky/facebook/src/base_facebook.php on line 639
+[10-Jul-2014 07:51:35 Etc/GMT] CSRF state token does not match one provided.
+[30-Jul-2014 06:29:39 Etc/GMT] CSRF state token does not match one provided.
+[30-Jul-2014 06:29:46 Etc/GMT] CSRF state token does not match one provided.
+[30-Jul-2014 06:39:43 Etc/GMT] CSRF state token does not match one provided.
